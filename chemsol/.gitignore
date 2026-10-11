@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded data (reproducible with src/fetch_chembl.py)
+data/raw/
+
+# Generated artifacts
+reports/*.joblib
+reports/*.csv
+reports/figures/
+reports/metrics.json
+
+# Exception: to version the external set, drop the comment on this line
+# data/external/validation_set.csv

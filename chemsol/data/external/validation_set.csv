@@ -1,0 +1,14 @@
+name,chembl_id,smiles,logS_experimental,n_records,logS_spread,in_processed_dataset
+Warfarin,CHEMBL1464,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,-4.517,2,0.265,True
+Caffeine,CHEMBL113,Cn1c(=O)c2c(ncn2C)n(C)c1=O,-0.967,1,0.0,True
+Aspirin,CHEMBL25,CC(=O)Oc1ccccc1C(=O)O,-0.178,28,0.35,True
+Ibuprofen,CHEMBL521,CC(C)Cc1ccc(C(C)C(=O)O)cc1,-0.594,32,1.274,True
+Diclofenac,CHEMBL139,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,-5.099,15,0.909,False
+Propranolol,CHEMBL27,CC(C)NCC(O)COc1cccc2ccccc12,-3.932,3,0.412,True
+Verapamil,CHEMBL6966,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,-3.985,2,0.01,True
+Tamoxifen,CHEMBL83,CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,-4.807,14,0.981,True
+Lidocaine,CHEMBL79,CCN(CC)CC(=O)Nc1c(C)cccc1C,-2.027,2,0.152,True
+Diazepam,CHEMBL12,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,-3.673,2,0.083,True
+Ketoconazole,CHEMBL157101,CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,-4.495,3,0.236,True
+Griseofulvin,CHEMBL562,COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O,-4.661,2,0.0,True
+Furosemide,CHEMBL35,NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl,-4.227,1,0.0,True
